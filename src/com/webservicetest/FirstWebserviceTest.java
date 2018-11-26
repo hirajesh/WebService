@@ -26,7 +26,7 @@ public class FirstWebserviceTest {
 		String restURL_XML = "http://parabank.parasoft.com/parabank/services/bank/customers/12212/";
 
 		// sending request and we are passing parameter in url itself
-		String restURL_JSON = "http://api.openweathermap.org/data/2.5/weather?q=Amsterdam";
+    	String restURL_JSON = "http://api.openweathermap.org/data/2.5/weather?q=Amsterdam";
 		
 
 		try {
